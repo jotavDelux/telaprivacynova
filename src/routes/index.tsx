@@ -11,7 +11,7 @@ import { photoSource } from "@/lib/photo-swap";
 // perfil.jpg (foto redonda). Para trocar, substitua o arquivo na pasta
 // public/ mantendo o mesmo nome — pronto, nada mais a fazer.
 // Ou cole aqui o endereço (URL) de outra imagem entre as aspas.
-const BANNER_URL = "banner.jpg";
+const BANNER_URL = "banner.png";
 const PERFIL_URL = "perfil.jpg";
 // ───────────────────────────────────────────────────────────────────────
 const cover = photoSource(BANNER_URL, coverAsset);
