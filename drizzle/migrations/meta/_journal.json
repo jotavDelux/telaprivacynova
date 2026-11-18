@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795028531327,
+      "tag": "0000_nxgate_pix_orders",
+      "breakpoints": true
+    }
+  ]
+}
